@@ -1,5 +1,7 @@
 # MatchUp
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 !["MatchUp Logo"](./logo.jpg "MatchUp Logo")
 
 Aplicación para la conexión de personas con intención de realizar deporte con otra gente para socializar e interaccionar en una plataforma sencilla, útil e intuitiva.
