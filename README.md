@@ -10,7 +10,7 @@ Hoy en día son comunes las aplicaciones que sirven para conectar a gente. Esta 
 
 Cualquier usuario que lo desee puede solicitar unirse y el administrador del partido (la persona que lo creó) puede aceptar o rechazar a dicho usuario, basándose en distintas valoraciones como actitud, nivel, etc. En este contexto la aplicación podría parecerse a BlaBlaCar. Del mismo modo existiría la posibilidad de que centros deportivos creasen partidos o torneos de algún deporte y ellos mismos realizaran la gestión de los equipos y las reservas de pistas propias.
 
-Los autores de este trabajo son:
+Los autores de este trabajo son: 
 
 * [Pablo Alfaro Goicoechea](https://github.com/pabloalfaro).
 * [Carlos Morales Aguilera](https://github.com/Carlosma7).
