@@ -1,0 +1,78 @@
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 > #backgroundBox {
+  position: absolute;
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 > #alignmentBox {
+  position: relative;
+  max-width: 412.0px;
+  max-height: 732.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 #s-Image_1 .imageViewport > * {
+  width: 124.17313401739676%;
+  height: 130.60186656650006%;
+  left: -13.636126881608416%;
+  top: -17.19205986882025%;
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 #s-Image_1 {
+  position: absolute;
+  width: 412.0000000000001px;
+  height: 732.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 #s-Image_1 {
+  box-shadow: none;
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 #s-Hotspot_1 {
+  position: absolute;
+  width: 412.0000000000001px;
+  height: 149.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 #s-Hotspot_2 {
+  position: absolute;
+  width: 141.0px;
+  height: 92.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 #s-Hotspot_3 {
+  position: absolute;
+  width: 122.0px;
+  height: 86.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 #s-Hotspot_4 {
+  position: absolute;
+  width: 149.0px;
+  height: 86.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-2c6c64f1-dac5-4b90-aa2f-5fa0d966e585 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
