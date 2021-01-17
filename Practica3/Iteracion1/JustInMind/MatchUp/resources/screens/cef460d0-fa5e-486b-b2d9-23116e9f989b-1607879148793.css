@@ -1,0 +1,78 @@
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b > #backgroundBox {
+  position: absolute;
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b > #alignmentBox {
+  position: relative;
+  max-width: 412.0px;
+  max-height: 732.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b #s-Image_1 .imageViewport > * {
+  width: 123.04883166150213%;
+  height: 129.34230232183788%;
+  left: -11.524415830751074%;
+  top: -15.971126580240858%;
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b #s-Image_1 {
+  position: absolute;
+  width: 412.0000000000001px;
+  height: 732.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-cef460d0-fa5e-486b-b2d9-23116e9f989b #s-Image_1 {
+  box-shadow: none;
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b #s-Hotspot_1 {
+  position: absolute;
+  width: 148.0px;
+  height: 93.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b #s-Hotspot_2 {
+  position: absolute;
+  width: 135.99999999999977px;
+  height: 86.50000000000034px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b #s-Hotspot_3 {
+  position: absolute;
+  width: 128.00000000000034px;
+  height: 86.50000000000034px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b #s-Hotspot_4 {
+  position: absolute;
+  width: 115.0px;
+  height: 28.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-cef460d0-fa5e-486b-b2d9-23116e9f989b > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
