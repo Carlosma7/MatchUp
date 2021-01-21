@@ -4,7 +4,7 @@
 
 !["MatchUp Logo"](./logo.jpg "MatchUp Logo")
 
-Aplicación para la conexión de personas con intención de realizar deporte con otra gente para socializar e interaccionar en una plataforma sencilla, útil e intuitiva.
+[Match Up](https://ecarlos7ma.wixsite.com/website) es una plicación para la conexión de personas con intención de realizar deporte con otra gente para socializar e interaccionar en una plataforma sencilla, útil e intuitiva.
 
 Hoy en día son comunes las aplicaciones que sirven para conectar a gente. Esta propuesta va dirigida a conectar a gente de cara a realizar diferentes deportes. La idea no consiste exclusivamente en conectar a gente sino que además permite crear un determinado partido con una ubicación, hora, nivel de dificultad y número de jugadores restantes.
 
